@@ -32,3 +32,14 @@ It allows users to:
 - **Maven (Dependency Management)**
 
 ---
+
+ Future Improvements
+Potential Enhancements:
+
+- Password reset feature
+- UI improvements (better styling with themes)
+- Multi-language support
+- Web version using JSP/Servlets
+- Deploy the database on a remote server
+
+---
